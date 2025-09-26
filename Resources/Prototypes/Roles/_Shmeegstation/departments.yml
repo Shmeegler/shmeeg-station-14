@@ -1,6 +1,7 @@
 - type: department
   id: Outpost
   name: department-Outpost
+  description: department-Outpost-description
   color: "#0c344d"
   roles:
   - OutpostTech
