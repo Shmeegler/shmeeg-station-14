@@ -9,14 +9,15 @@
   access:
   - AllAccess
 
-- type: startingGear
-  id: PassengerGear
-  equipment:
-    id: PassengerPDA
-    ears: ClothingHeadsetGrey
-  #storage:
-    #back:
-    #- Stuff
+# meow
+# - type: startingGear
+#   id: PassengerGear
+#   equipment:
+#     id: PassengerPDA
+#     ears: ClothingHeadsetGrey
+#   #storage:
+#     #back:
+#     #- Stuff
 
 - type: chameleonOutfit
   id: PassengerChameleonOutfit
