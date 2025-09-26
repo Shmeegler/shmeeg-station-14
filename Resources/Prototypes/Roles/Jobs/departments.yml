@@ -7,6 +7,7 @@
   - CargoTechnician
   - Quartermaster
   - SalvageSpecialist
+  editorHidden: true #shmeegstation
 
 - type: department
   id: Civilian
@@ -32,6 +33,7 @@
   - Visitor
   - Zookeeper
   - ServiceWorker
+  editorHidden: true #shmeegstation
 
 - type: department
   id: CentralCommand
@@ -73,6 +75,8 @@
   - ERTSecurity
   - ERTEngineer
   - DeathSquad
+  editorHidden: true #shmeegstation
+
   primary: false
   weight: 100
 
@@ -86,6 +90,8 @@
   - ChiefEngineer
   - StationEngineer
   - TechnicalAssistant
+  editorHidden: true #shmeegstation
+
 
 - type: department
   id: Medical
@@ -99,6 +105,8 @@
   - MedicalIntern
   - Psychologist
   - Paramedic
+  editorHidden: true #shmeegstation
+
 
 - type: department
   id: Security
@@ -112,6 +120,8 @@
   - SecurityOfficer
   - Detective
   - Warden
+  editorHidden: true #shmeegstation
+
 
 - type: department
   id: Science
@@ -122,6 +132,8 @@
   - ResearchDirector
   - Scientist
   - ResearchAssistant
+  editorHidden: true #shmeegstation
+
 
 - type: department
   id: Silicon
@@ -131,6 +143,7 @@
   roles:
   - Borg
   - StationAi
+  editorHidden: true #shmeegstation
 
 - type: department
   id: Specific
@@ -143,4 +156,15 @@
   - Reporter
   - Zookeeper
   - Psychologist
+  editorHidden: true #shmeegstation
   primary: false
+
+# shmeegstation real
+
+- type: department
+  id: Outpost
+  name: department-Outpost
+  description: department-Outpost-description
+  color: "#0c344d"
+  roles:
+  - OutpostTech

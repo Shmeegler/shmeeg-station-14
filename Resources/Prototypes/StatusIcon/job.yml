@@ -486,3 +486,13 @@
     sprite: *icon-rsi
     state: Unknown
   jobName: job-name-unknown
+
+# Outpost Tech Shmeegstation
+
+- type: jobIcon
+  parent: JobIcon
+  id: JobIconOutpostTech
+  icon:
+    sprite: *icon-rsi
+    state: Outposttech
+  jobName: job-name-outposttech

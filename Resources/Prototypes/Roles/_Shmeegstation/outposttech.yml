@@ -1,0 +1,11 @@
+- type: job
+  id: OutpostTech
+  name: job-name-outposttech
+  description: job-description-outposttech
+  playTimeTracker: JobOutpostTech
+  startingGear: OutpostTechGear
+  icon: "JobIconOutpostTech"
+  supervisors: job-supervisors-centcom
+  access:
+  - AllAccess
+
