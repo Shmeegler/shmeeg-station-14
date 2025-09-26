@@ -11,4 +11,5 @@ department-Specific = Station specific
 
 department-Unknown = Unknown
 
+# Shmeegstation change
 department-Outpost = Outpost Staff

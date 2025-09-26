@@ -9,12 +9,3 @@
   access:
   - AllAccess
 
-# meow
-# - type: startingGear
-#   id: PassengerGear
-#   equipment:
-#     id: PassengerPDA
-#     ears: ClothingHeadsetGrey
-#   #storage:
-#     #back:
-#     #- Stuff
