@@ -1,0 +1,14 @@
+- type: jobIcon
+  abstract: true
+  id: JobIcon
+  priority: 1
+  locationPreference: Right
+  isShaded: true
+
+- type: jobIcon
+  parent: JobIcon
+  id: JobIconOutpostTech
+  icon:
+    sprite: &icon-rsi /Textures/Interface/Misc/job_icons.rsi
+    state: Outposttech
+  jobName: job-name-outposttech

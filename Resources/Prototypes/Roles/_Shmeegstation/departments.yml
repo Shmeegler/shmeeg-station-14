@@ -1,0 +1,6 @@
+- type: department
+  id: Outpost
+  name: department-Outpost
+  color: "#0c344d"
+  roles:
+  - OutpostTech

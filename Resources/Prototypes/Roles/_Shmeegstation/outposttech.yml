@@ -1,0 +1,30 @@
+- type: job
+  id: OutpostTech
+  name: job-name-outposttech
+  description: job-description-outposttech
+  playTimeTracker: JobOutpostTech
+  startingGear: OutpostTechGear
+  icon: "JobIconOutpostTech"
+  supervisors: job-supervisors-centcom
+  access:
+  - AllAccess
+
+- type: startingGear
+  id: PassengerGear
+  equipment:
+    id: PassengerPDA
+    ears: ClothingHeadsetGrey
+  #storage:
+    #back:
+    #- Stuff
+
+- type: chameleonOutfit
+  id: PassengerChameleonOutfit
+  job: Passenger
+  equipment:
+    head: ClothingHeadHatWelding
+    eyes: ClothingEyesGlassesCheapSunglasses
+    mask: ClothingMaskGas
+    neck: ClothingNeckMantle
+    outerClothing: ClothingOuterWinterCoat
+    gloves: ClothingHandsGlovesColorYellowBudget
