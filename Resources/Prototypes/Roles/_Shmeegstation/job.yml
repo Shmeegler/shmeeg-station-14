@@ -10,5 +10,5 @@
   id: JobIconOutpostTech
   icon:
     sprite: *icon-rsi
-    state: ShaftMiner
+    state: OutpostTech
   jobName: job-name-outposttech
