@@ -9,6 +9,6 @@
   parent: JobIcon
   id: JobIconOutpostTech
   icon:
-    sprite: &icon-rsi /Textures/Interface/Misc/job_icons.rsi
-    state: Outposttech
+    sprite: *icon-rsi
+    state: ShaftMiner
   jobName: job-name-outposttech
