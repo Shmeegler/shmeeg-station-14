@@ -10,3 +10,5 @@ department-Silicon = Silicon
 department-Specific = Station specific
 
 department-Unknown = Unknown
+
+department-Outpost = Outpost Staff
